@@ -4,7 +4,6 @@
 🎓 **Software Engineering student** at Universiti Teknologi Malaysia (UTM)  
 🔍 Actively seeking a **Sept 2025 – Feb 2026 internship** in **Full Stack**, **Frontend**, **Backend**, or **QA** roles  
 💡 Passionate about building scalable, user-friendly web and mobile apps  
-📈 CGPA: 3.96 / 4.00
 
 ---
 
@@ -50,7 +49,7 @@
 *A multilingual mental health app with AI chat, mood tracking, and meditation features.*  
 `Flutter` `Node.js` `Express.js` `MySQL` `Gemini AI`
 
-### [TrustChain]([https://github.com/](https://www.youtube.com/watch?v=KfCRkoNDBb8))  
+### [TrustChain](https://www.youtube.com/watch?v=KfCRkoNDBb8)  
 *Blockchain-based donation platform with smart contract disbursements.*  
 `React` `Laravel` `Solidity` `Web3.js` `Scroll`
 
