@@ -79,7 +79,6 @@
 📧 Email: chong.zhen@graduate.utm.my  
 🔗 [LinkedIn](https://www.linkedin.com/in/chong-siew-zhen-29b236257/)  
 💻 [GitHub](https://github.com/ChongSZ7279)  
-📹 [Project Demo Playlist](https://www.youtube.com/playlist?list=PL3VDwAzUdhsQ-PROJ)
 
 ---
 
